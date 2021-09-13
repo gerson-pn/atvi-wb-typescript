@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^16.7.10"
+    "@types/node": "^16.7.10",
+    "@types/prompt-sync": "^4.1.1"
   }
 }
